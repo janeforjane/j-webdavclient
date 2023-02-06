@@ -1,0 +1,6 @@
+application:
+  wedbdavserver:
+    address: http://localhost:8080/remote.php/dav/files/
+    serverdirectory: Documents/
+    login: adele
+    password: adelepassword
